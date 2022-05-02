@@ -1,4 +1,4 @@
-## HI, MY NAME IS GERARDO! 🙏
+## HI, MY NAME IS GERARDO! 
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
