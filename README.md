@@ -1,4 +1,4 @@
-## नमस्ते 🙏
+## HI, MY NAME IS GERARDO! 🙏
 [![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
 [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
 
