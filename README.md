@@ -5,6 +5,7 @@ I lead and manage IT teams focused on innovation, performance, and product growt
 
 ### 🚀 About Me
 
+- 🏭 **Team Leader** at [WAPP Software Factory](https://www.wapp.com.ar), leading the transformation of business processes into tailored digital ecosystems and acting as a strategic extended technology team.
 - 🧠 **Team Leader** at [Hogar Servicios de Mantenimiento](https://www.hogarmantenimiento.com/), leading a multidisciplinary IT team developing mobile and web platforms for operational management, maintenance tracking, and internal logistics.  
 - 🏗️ **Project Lead** at [Revista Costos](https://www.costos.com.py/), a digital platform for construction analytics and project cost intelligence.  
 - 💻 **Fullstack Developer** experienced in **Next.js**, **React Native**, **NestJS**, and **Firebase**, designing end-to-end solutions that connect real-time data, automation, and AI.  
