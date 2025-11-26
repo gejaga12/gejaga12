@@ -55,7 +55,7 @@ I lead and manage IT teams focused on innovation, performance, and product growt
 <p align="center">
   <a href="https://www.linkedin.com/in/gejaga12/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gejaga12-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/gejaga12/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gejaga12-blue?style=flat-square&logo=instagram"></a>
-  <a href="mailto:gejaga12@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gejaga12@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:g.garcia@wapp.com.ar"><img alt="Email" src="https://img.shields.io/badge/Email-g.garcia@wapp.com.ar-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ _“Building technology that simplifies, connects, and scales.”_
